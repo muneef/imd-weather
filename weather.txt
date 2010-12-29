@@ -1,0 +1,23 @@
+                                             INDIA METEOROLOGICAL DEPARTMENT 
+                              MULTIMODEL ENSEMBLE BASED DISTRICT LEVEL WEATHER FORECAST   
+                                               ISSUED ON:  08-10-2010
+                                        VALID TILL 08:30 IST  OF THE NEXT 5 DAYS
+
+ DISTRICT :  KOZHIKODE                                                      STATE :  KERALA           
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+    PARAMETERS                                             ENSEMBLE FCST   
+                   ----------------------------------------------------------------------------------------------------
+                              DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              09/10               10/10               11/10               12/10               13/10
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                  19                   3                   0                   4                   3
+Max Temperature ( deg C)       26                  27                  29                  28                  28
+Min Temperature ( deg C)       24                  24                  24                  24                  24
+Total cloud cover (octa)        8                   8                   8                   8                   8
+Max Relative Humidity (%)      95                  86                  90                  89                  91
+Min Relative Humidity (%)      82                  86                  89                  89                  90
+Wind speed (kmph)               3                   2                   2                   4                   4
+Wind direction (deg)           80                 130                  60                 110                 120
+------------------ ------------------- ------------------- ------------------- ------------------- -------------------
+  
+ NOTE: -99.0 ........ NO DATA 
