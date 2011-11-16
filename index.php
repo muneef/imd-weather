@@ -3,9 +3,13 @@
 
 $district='wayanad';
 if(isset($_GET['q'])){
-		$district=$_GET['q'];
+	$district=$_GET['q'];
+}else{
+	$district='kozhikode';
 }
-$var=file_get_contents('http://www.imd.gov.in/section/nhac/distforecast/'.$district.'.htm');
+
+$source='http://www.imd.gov.in/section/nhac/distforecast/'.$district.'.htm';
+$var=file_get_contents($source);
 
 // parse one
 preg_match_all("/\s+(\d)+\s+(\d)+\s+(\d)+\s+(\d)+\s+(\d)+/",$var, $phones);
